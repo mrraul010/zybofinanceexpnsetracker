@@ -1,5 +1,5 @@
 Zybo Expense Tracker
-Hey there! Welcome to the repository for my Proactive Expense Manager app, built for the Zybo Flutter Technical Challenge.
+Hey there! Welcome to the repository for my Proactive Expense Manager app, 
 
 This isn't just a basic CRUD app. I designed it to be a true offline-first, hybrid local/cloud experience. It leverages a local SQLite database for instant UI updates and a dedicated background engine to carefully synchronize relational data with a remote backend.
 
